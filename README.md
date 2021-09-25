@@ -12,9 +12,9 @@
 
 - Project Manager
 - Backend heavy full-stack developer
-- Open for freelance work
-- Ask me anything related to tech
 - Coding since 2016
+- Want to work with me? DM me in twitter
+- Feel free to ask for any help
 
 <br>
 
