@@ -8,54 +8,56 @@
 
 <br>
 
-**About:**
+**What I do?**
 
 - Project Manager
-- Backend heavy full-stack developer
+- Backend Developer & Backend Engineer
 - Coding since 2016
 - Want to work with me? DM me in twitter
 - Feel free to ask for any help
 
 <br>
 
-**Coding Ethics:**
+**Coding ethics I follow:**
 
-- Write clean & maintainable code.
-- Test every inch of code.
-- Atomic git commits.
-- Semantic versioning.
-- Use fundamental design patterns.
+- Human understandable clean code
+- SOLID principle
+- TDD (Test Driven Development) pattern
+- Conventional commits
+- Semantic versioning
 
 <br>
 
 **Proficient In:**<br>
 
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript &nbsp;&nbsp;
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> Typescript &nbsp;&nbsp;
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJS &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js &nbsp;&nbsp;
 
-<img height="15" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"> Neo4J &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"> Neo4j &nbsp;&nbsp;
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> PostgreSQL &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> MySQL &nbsp;&nbsp;
 
 <br>
 
 **Familiar With:**<br>
 
-<img height="15" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> MySQL &nbsp;&nbsp;
-<img height="15" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> MongoDB &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"> GraphQL &nbsp;&nbsp;
-
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React &nbsp;&nbsp;
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue &nbsp;&nbsp;
-<img height="15" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"> Redis &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg"> gRPC &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"> MongoDB &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"> Redis &nbsp;&nbsp;
+
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React.js &nbsp;&nbsp;
+<img height="15" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"> Next.js &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue.js &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"> Nuxt.js &nbsp;&nbsp;
 
 <br>
 
 **Currently Exploring:**<br>
 
-<img height="15" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> GoLang &nbsp;&nbsp;
-<img height="15" src="https://github.com/solidjs/solid-site/raw/master/src/assets/logo.png"> SolidJS &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> Go-lang &nbsp;&nbsp;
+<img height="15" src="https://github.com/solidjs/solid-site/raw/master/src/assets/logo.png"> Solid.js &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-icon.svg"> D-Graph &nbsp;&nbsp;
 
 <br>
