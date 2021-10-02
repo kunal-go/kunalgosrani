@@ -56,7 +56,7 @@
 
 **Currently Exploring:**<br>
 
-<img height="15" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> Go-lang &nbsp;&nbsp;
+<img height="15" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> Go &nbsp;&nbsp;
 <img height="15" src="https://github.com/solidjs/solid-site/raw/master/src/assets/logo.png"> Solid.js &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/dgraphio/dgraphio-icon.svg"> D-Graph &nbsp;&nbsp;
 
