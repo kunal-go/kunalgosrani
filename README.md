@@ -1,6 +1,6 @@
 ## **Kunal Gosrani**
 
-💼 Co-Founder & CTO @ [**HK Byte**](https://hkbyte.com/)<br>
+💼 Co-Founder @ [**HK Byte**](https://hkbyte.com/)<br>
 🏠 Jamnagar, Gujarat, India<br>
 🐤 Twitter: [KunalGosrani](https://twitter.com/KunalGosrani)<br>
 📧 Email: [kunalgosrani10@gmail.com](mailto:kunalgosrani10@gmail.com)<br>
