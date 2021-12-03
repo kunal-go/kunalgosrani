@@ -1,6 +1,6 @@
 ## **Kunal Gosrani**
 
-💼 Co-Founder @ [**hk-byte**](https://hkbyte.com/)<br>
+💼 Co-Founder & Software Engineer @ [**hk-byte**](https://hkbyte.com/)<br>
 🏠 Jamnagar, India<br>
 🐤 Twitter: [KunalGosrani](https://twitter.com/KunalGosrani)<br>
 📧 Email: [kunalgosrani10@gmail.com](mailto:kunalgosrani10@gmail.com)<br>
@@ -10,7 +10,7 @@
 
 **About:**
 
-- Backend focused Full-Stack Software Engineer since 2017.
+- Full-Stack Software Engineer since 2017.
 - Love to meet and talk with new peoples.
 - Curious to learn new technology.
 
@@ -21,6 +21,7 @@
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript &nbsp;&nbsp;
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> TypeScript &nbsp;&nbsp;
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node &nbsp;&nbsp;
+<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg"> Neo4j &nbsp;&nbsp;
 <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"> PostgreSQL &nbsp;&nbsp;
 
@@ -37,5 +38,4 @@
 
 **Currently Exploring:**<br>
 
-<img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React &nbsp;&nbsp;
 <img height="15" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"> Go &nbsp;&nbsp;
