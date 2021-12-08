@@ -10,9 +10,9 @@
 
 **About:**
 
-- Full-Stack Software Engineer since 2017.
+- Software Development Engineer since 2017.
 - Love to meet and talk with new peoples.
-- Curious to learn new technology.
+- Curious play with new technology.
 
 <br>
 
