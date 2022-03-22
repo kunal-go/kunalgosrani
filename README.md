@@ -11,8 +11,9 @@
 **About:**
 
 - Software Development Engineer since 2017.
-- Love to meet and talk with new peoples.
-- Curious play with new technology.
+- Designed and developed 15+ apps including 2 SaaS products and counting...
+- I enjoy solving real world problems by developing backend systems and beautiful web apps.
+- I have had the privilege of working remotely with exceptional engineers, diverse cultural backgrounds and a diverse set of skills
 
 <br>
 
